@@ -9,7 +9,7 @@ String _string;
 int count=0;
 
 void setup() {
-size(640,480);
+size(640,600);
 frameRate(60);
 
 rectSize= 200;
