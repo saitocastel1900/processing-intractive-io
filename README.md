@@ -16,4 +16,5 @@
 </div>
 
 # 参考文献
-http://www.patatap.com/
+http://www.patatap.com/  
+https://r-dimension.xsrv.jp/classes_j/sine_cosine/
