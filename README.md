@@ -15,7 +15,7 @@
 <img src="" alt="C3-02-1の画像です"  width="300px">
 </div>
 
-#　使用したフォント・効果音
+# 使用した効果音・フォント
 
 # 参考文献
 http://www.patatap.com/  
