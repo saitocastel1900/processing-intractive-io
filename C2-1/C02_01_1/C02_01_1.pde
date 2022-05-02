@@ -1,5 +1,4 @@
-//2023178 斎藤亮磨
-//課題２－１ ジョイ・ディヴィジョン『Unknown Pleasures』を基に作成
+//課題 ジョイ・ディヴィジョン『Unknown Pleasures』を基に作成
 
 float dt= 0.01;
 int count= 0;

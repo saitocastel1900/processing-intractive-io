@@ -1,5 +1,4 @@
-//2023178 斎藤亮磨
-//課題２－２ Example2-3を基に作成 
+//課題　教材を基に作成
 
 float rectSize;
 float angle;
@@ -9,7 +8,7 @@ String _string;
 int count=0;
 
 void setup() {
-size(640,600);
+size(600,600);
 frameRate(60);
 
 rectSize= 200;
