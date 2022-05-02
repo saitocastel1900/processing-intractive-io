@@ -18,7 +18,10 @@
 
 
 # 使用した効果音・フォント
-
+このプロジェクトには以下のフォント・効果音が含まれています
+・
+・
+  
 # 参考文献
 http://www.patatap.com/  
 https://r-dimension.xsrv.jp/classes_j/sine_cosine/
