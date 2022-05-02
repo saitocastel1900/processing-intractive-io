@@ -15,6 +15,8 @@
 <img src="" alt="C3-02-1の画像です"  width="300px">
 </div>
 
+#　使用したフォント・効果音
+
 # 参考文献
 http://www.patatap.com/  
 https://r-dimension.xsrv.jp/classes_j/sine_cosine/
