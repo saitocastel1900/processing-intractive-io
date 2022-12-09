@@ -1,5 +1,5 @@
 # processing-intractive-io
-講義での課題で作成したprocessingの作品です。
+講義の課題で作成したprocessingの作品です。
 
 
 ## C2-01 C2-02 キーとマウスの動きに応じて反応する作品
